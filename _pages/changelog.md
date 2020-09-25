@@ -6,16 +6,15 @@ include_in_header: false
 
 ### `Initial Release`
 # **Version 1.0**
-ActionsHub, a GitHub Actions client, is the easiest way to view and manage your GitHub Actions Workflows on your mobile.
+Scrum Card - Agile Poker is the coolest deck that makes agile estimating fun and accurate. Make your planning fun and stylish! You can choose from Fibonacci, standard, or suggested sequence to t-shirt sizes. 
+
 
 Features:
-- Cancel or Re-run any Workflow Run with a single tap!
-- Monitor the progress and status of any Workflow Run and its Steps.
-- Connect directly to GitHub API. Your credentials are stored only on your device.
-- All the Workflow Run info - status, branch, Pull Request, Commit - in one screen.
 
-You will need to be a contributor to the repository to see it in the ActionsHub app.
+- Fibonacci
+- Shirt Sizes
+- Standard 
+- Suggested
+- Standard
+- Hide & Reveal Card
 
-You will need to give ‘repo’ and ‘workflow’ scopes to the generated GitHub Access Token for the app to be fully functional.
-
-ActionsHub is not affiliated with GitHub in any way, and it is a third-party GitHub Actions client.
